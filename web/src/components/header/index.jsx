@@ -23,7 +23,7 @@ const Header = () => {
         <Outlet />
       </main>
 
-      <footer className="mx-auto px-2 container py-6">
+      {/* <footer className="mx-auto px-2 container py-6">
         <ul className="flex items-center justify-center mt-3 text-sm:mt-0 space-x-4">
           <li>
             <a href="https://github.com/Glimesh/broadcast-box" className="hover:underline">GitHub</a>
@@ -35,7 +35,7 @@ const Header = () => {
             <a href="https://glimesh.tv" className="hover:underline">Glimesh</a>
           </li>
         </ul>
-      </footer>
+      </footer> */}
 
     </div>
   )
